@@ -11,6 +11,8 @@ This repository contains data and an IPython Notebook to reproduce some of the d
 
 Geers AJ, Larrabide I, Radaelli AG, Bogunovic H, Kim M, Gratama van Andel HAF, Majoie CB, VanBavel E, Frangi AF. Patient-specific computational hemodynamics of intracranial aneurysms from 3D rotational angiography and CT angiography: An in vivo reproducibility study. American Journal of Neuroradiology, 32(3):581–586, 2011.
 
+You can view the notebook [here](http://nbviewer.ipython.org/github/ajgeers/3dracta/blob/master/code/analysis.ipynb).
+
 
 Data
 ----
