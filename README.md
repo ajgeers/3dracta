@@ -21,7 +21,7 @@ Geers AJ, Larrabide I, Radaelli AG, Bogunovic H, Kim M, Gratama van Andel HAF, M
 
 ```sh
 conda env create -n 3dracta -f environment.yml
-source activate 3dracta
+conda activate 3dracta
 ```
 
 
