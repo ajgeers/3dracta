@@ -12,9 +12,7 @@ Geers AJ, Larrabide I, Radaelli AG, Bogunovic H, Kim M, Gratama van Andel HAF, M
 
 ## Data
 
-The dataset is also available on [FigShare]:
-
-Geers AJ, Larrabide I, Radaelli AG, Bogunovic H, Kim M, Gratama van Andel HAF, Majoie CB, VanBavel E, Frangi AF. Reproducibility of hemodynamic simulations of cerebral aneurysms across imaging modalities 3DRA and CTA. FigShare, 2015. DOI: 10.6084/m9.figshare.1354056
+The dataset in `data/` is also available on [FigShare](http://doi.org/10.6084/m9.figshare.1354056).
 
 
 ## Python environment
